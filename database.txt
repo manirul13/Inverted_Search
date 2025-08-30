@@ -1,0 +1,16 @@
+#[0] : word is : [are] : file_count : [2] : file_name : [file1.txt] : word_count : 2 : file_name : [file2.txt] : word_count : 1
+#[0] : word is : [am] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[0] : word is : [also] : file_count : [1] : file_name : [file1.txt] : word_count : 2
+#[3] : word is : [dude] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[5] : word is : [fine] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[7] : word is : [Hi] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[7] : word is : [How] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[7] : word is : [how] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[8] : word is : [I] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[8] : word is : [is] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[15] : word is : [parents] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[24] : word is : [you] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[24] : word is : [your] : file_count : [2] : file_name : [file1.txt] : word_count : 1 : file_name : [file2.txt] : word_count : 1
+#[44] : word is : [,] : file_count : [1] : file_name : [file1.txt] : word_count : 1
+#[63] : word is : [?] : file_count : [2] : file_name : [file1.txt] : word_count : 2 : file_name : [file2.txt] : word_count : 2
+#[46] : word is : [.] : file_count : [2] : file_name : [file1.txt] : word_count : 2 : file_name : [file2.txt] : word_count : 1
